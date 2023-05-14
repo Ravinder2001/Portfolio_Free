@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://private-user-images.githubusercontent.com/86410071/238175678-6b17415a-8824-4804-b940-ff4c91741aaf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg0MDUzMDY2LCJuYmYiOjE2ODQwNTI3NjYsInBhdGgiOiIvODY0MTAwNzEvMjM4MTc1Njc4LTZiMTc0MTVhLTg4MjQtNDgwNC1iOTQwLWZmNGM5MTc0MWFhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDUxNFQwODI2MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNjRlNzdjYmE5ZGM4ZWVlY2JkZGYyMjgxOGMwNWQyYWM1Mzk0N2JjOGJhNDE1MmZiMjNhY2IwMTc1OGQwYWM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xYWi0dE2iCgcHe7fY_IAFpn1rpAtjrmkclyjsD3H2Aw",
+    img: "https://bnz05pap001files.storage.live.com/y4m4eGilDJPgfP22YAbJqKCjeTMAkSCfu8WKpbfye14bj05nGH75qeG8N4wnJ1UvMD3K7RQSO0Wz5y8BCbSg3V4MCYpYW8T-Zusk9RgKiyBSTjHqXeITYKIZWYCiUBk0kTedgdJOB4C99qe-eGPQJUJkte4hh2TzxGakhJ0fTzLIb5WUz56nSOnvSBIrT13cQ5m?width=1388&height=893&cropmode=none",
     title: "ChitChat",
     description: "ChitChat is a chat application and it is modern, user-friendly, secure, with profiles, group chats, message editing, image/video sharing, and real-time notifications.",
     about:
